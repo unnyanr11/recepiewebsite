@@ -1,0 +1,111 @@
+[
+  {
+    "id": "pancakes",
+    "name": "Pancakes",
+    "description": "Fluffy and delicious pancakes topped with fresh berries and syrup.",
+    "image": "/images/pancakes.jpg",
+    "ingredients": [
+      "2 cups flour",
+      "2 tablespoons sugar",
+      "2 teaspoons baking powder",
+      "1 teaspoon baking soda",
+      "1/2 teaspoon salt",
+      "2 cups buttermilk",
+      "2 eggs",
+      "1/4 cup melted butter",
+      "1 teaspoon vanilla extract"
+    ],
+    "instructions": [
+      "In a bowl, mix flour, sugar, baking powder, baking soda, and salt.",
+      "In another bowl, whisk together buttermilk, eggs, melted butter, and vanilla.",
+      "Combine wet and dry ingredients and mix until just combined.",
+      "Heat a pan and grease it lightly. Pour batter and cook pancakes until golden brown.",
+      "Serve with syrup and fresh berries."
+    ]
+  },
+  {
+    "id": "grilled-chicken",
+    "name": "Grilled Chicken",
+    "description": "Juicy grilled chicken served with roasted vegetables.",
+    "image": "/images/grilledchicken.jpg",
+    "ingredients": [
+      "2 chicken breasts",
+      "1 tablespoon olive oil",
+      "1 teaspoon garlic powder",
+      "1 teaspoon paprika",
+      "Salt and pepper to taste",
+      "1 tablespoon lemon juice"
+    ],
+    "instructions": [
+      "Preheat grill to medium-high heat.",
+      "Rub chicken breasts with olive oil, garlic powder, paprika, salt, and pepper.",
+      "Grill chicken for 6-7 minutes on each side or until fully cooked.",
+      "Drizzle with lemon juice and serve with roasted vegetables."
+    ]
+  },
+  {
+    "id": "pasta",
+    "name": "Pasta",
+    "description": "Creamy pasta with fresh basil and parmesan cheese.",
+    "image": "/images/pasta.jpg",
+    "ingredients": [
+      "200g spaghetti",
+      "2 tablespoons olive oil",
+      "2 cloves garlic, minced",
+      "1 cup heavy cream",
+      "1/2 cup grated parmesan cheese",
+      "Salt and pepper to taste",
+      "Fresh basil leaves"
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "Heat olive oil in a pan and sauté garlic until fragrant.",
+      "Add heavy cream and bring to a simmer.",
+      "Stir in parmesan cheese, salt, and pepper.",
+      "Toss the cooked pasta in the sauce and top with fresh basil."
+    ]
+  },
+  {
+    "id": "burger",
+    "name": "Burger",
+    "description": "Classic cheeseburger with lettuce, tomato, and cheese.",
+    "image": "/images/burger.jpg",
+    "ingredients": [
+      "1/2 lb ground beef",
+      "1 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1 teaspoon Worcestershire sauce",
+      "2 hamburger buns",
+      "2 slices cheddar cheese",
+      "Lettuce, tomato, pickles"
+    ],
+    "instructions": [
+      "Season ground beef with salt, pepper, and Worcestershire sauce.",
+      "Form into patties and cook on a grill or pan for 3-4 minutes per side.",
+      "Add cheese slices on top and let melt.",
+      "Assemble burger with lettuce, tomato, pickles, and serve on toasted buns."
+    ]
+  },
+  {
+    "id": "salad",
+    "name": "Salad",
+    "description": "Fresh garden salad with tomatoes, cucumbers, and olives.",
+    "image": "/images/salad.jpg",
+    "ingredients": [
+      "1 head romaine lettuce, chopped",
+      "1 cup cherry tomatoes, halved",
+      "1 cucumber, sliced",
+      "1/4 cup black olives",
+      "1/4 cup feta cheese, crumbled",
+      "2 tablespoons olive oil",
+      "1 tablespoon balsamic vinegar",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine lettuce, tomatoes, cucumber, and olives.",
+      "Drizzle with olive oil and balsamic vinegar.",
+      "Season with salt and pepper.",
+      "Top with crumbled feta cheese and serve."
+    ]
+  }
+]

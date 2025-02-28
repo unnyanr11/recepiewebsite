@@ -1,0 +1,38 @@
+/* tailwindcss v3.0+ */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+html, body {
+    background-color: white; /* Normal mode */
+    color: black;
+}
+  
+.dark body {
+    background-color: #121212; /* Dark mode */
+    color: white;
+}
+
+/* Dark Mode Toggle Button Styling */
+button {
+    background-color: black; /* Default (light mode) */
+    color: white;
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: background-color 1.2s, color 1.2s;
+}
+
+.dark button {
+    background-color: white; /* Dark mode */
+    color: black;
+}
+
+/* Ensure Hamburger Menu Stays Black with White Lines */
+.hamburger-button {
+    background-color: black !important;
+    color: white !important;
+}
+
+.hamburger-line {
+    background-color: white !important;
+}
