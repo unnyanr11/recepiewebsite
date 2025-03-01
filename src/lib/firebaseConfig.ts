@@ -4,8 +4,8 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage"; // ✅ Import Firebase Storage
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA51r31aCJgmvqATXFxfoaUa8l3G_gka50",
-  authDomain: "recepiewebsite-be26b.firebaseapp.com",
+  apiKey: " ",
+  authDomain: " ",
   projectId: "recepiewebsite-be26b",
   storageBucket: "recepiewebsite-be26b.appspot.com",
   messagingSenderId: "857402846259",
