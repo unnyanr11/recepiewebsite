@@ -7,7 +7,7 @@ const firebaseConfig = {
   apiKey: " ",
   authDomain: " ",
   projectId: "recepiewebsite-be26b",
-  storageBucket: "recepiewebsite-be26b.appspot.com",
+  storageBucket: " ",
   messagingSenderId: "857402846259",
   appId: "1:857402846259:web:904613f0959f1da3fc4746",
   measurementId: "G-D2QYYJP1WW",
