@@ -1,4 +1,4 @@
-import { 
+impo { 
   doc, getDoc, updateDoc, arrayUnion, setDoc, 
   collection, query, where, getDocs 
 } from "firebase/firestore";
